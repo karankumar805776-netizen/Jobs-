@@ -1,0 +1,6 @@
+{
+  "name": "CareerHub",
+  "description": "A modern and responsive job portal application built with Jetpack Compose, featuring advanced job search, category filtering, saved jobs, application status tracking, and offline persistence with Room Database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
